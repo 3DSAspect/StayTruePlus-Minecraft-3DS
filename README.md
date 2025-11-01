@@ -17,6 +17,7 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 
 # Planned Features
 - Animal/mob textures
+- New paintings
 
 # Screenshots
 ![2025-10-31_21-12-29 186_00040000001B8700_cmb](https://github.com/user-attachments/assets/f40f7726-635f-42ac-9e32-db0c518fec53)
