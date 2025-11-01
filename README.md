@@ -12,3 +12,12 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Oak, Dark Oak, Jungle, and Birch doors from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from Stay True.
 - Bow draw indicators from [Simple Bow Indicators](https://www.planetminecraft.com/texture-pack/simple-bow-indicators/).
+
+# Screenshots
+![2025-10-31_21-12-29 186_00040000001B8700_cmb](https://github.com/user-attachments/assets/f40f7726-635f-42ac-9e32-db0c518fec53)
+
+
+![2025-10-31_21-11-41 636_00040000001B8700_cmb](https://github.com/user-attachments/assets/430ee639-863b-42ac-be35-1cd4f4f444bb)
+
+
+![2025-10-31_21-14-13 384_00040000001B8700_cmb](https://github.com/user-attachments/assets/4c986591-0004-4a44-90f7-4155286e423a)
