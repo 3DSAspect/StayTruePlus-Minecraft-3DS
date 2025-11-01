@@ -2,6 +2,10 @@
 Stay True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. It uses 1.17 base textures, textures from 'Stay True', and other texture replacements
 
 # How to Install
+1. Extract the release folder for your region
+2. Drag and drop the luma folder to the root of your SD Card
+3. Ensure Game Patching is enabled in luma config
+4. Enjoy the awesome textures :)
 
 # Features
 - Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with base 1.17 textures.
