@@ -6,6 +6,7 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 2. Drag and drop the luma folder to the root of your SD Card
 3. Ensure Game Patching is enabled in luma config
 4. Enjoy the awesome textures :)
+
    ***Also available on the [Minecraft 3DS Edition Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)***
 
 # Features
