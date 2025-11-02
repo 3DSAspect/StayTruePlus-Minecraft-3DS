@@ -16,6 +16,8 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Bow draw indicators from [Simple Bow Indicators](https://www.planetminecraft.com/texture-pack/simple-bow-indicators/).
 - Lily pad from [Better Lily Pads](https://modrinth.com/resourcepack/better-lily-pads_)
 - New, select paintings from [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings), [Too Many Paintings!](https://modrinth.com/mod/too-many-paintings), [Painting ++](https://www.curseforge.com/minecraft/texture-packs/painting-base-painting-pack), [Greater paintings](https://www.curseforge.com/minecraft/texture-packs/new-paintings), [Rispwind's Additional Paintings](https://www.curseforge.com/minecraft/mc-mods/rispwinds-additional-paintings), [Peculiar Paintings](https://www.curseforge.com/minecraft/texture-packs/peculiar-paintings), and [Custom Paintings by sugrcube](https://www.planetminecraft.com/texture-pack/custom-paintings-by-sugrcube/).
+- Sun replacement from [Enhanced Sun](https://www.curseforge.com/minecraft/texture-packs/enhanced-sun)
+- Less rain particles from [Light Rain](https://modrinth.com/resourcepack/less-rain)
 
 # Planned Features
 - Animal/mob textures from 'Stay True'
