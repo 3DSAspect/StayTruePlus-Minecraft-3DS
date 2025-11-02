@@ -15,10 +15,10 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from 'Stay True'.
 - Bow draw indicators from [Simple Bow Indicators](https://www.planetminecraft.com/texture-pack/simple-bow-indicators/).
 - Lily pad from [Better Lily Pads](https://modrinth.com/resourcepack/better-lily-pads_)
+- New, select paintings from [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings), [Too Many Paintings!](https://modrinth.com/mod/too-many-paintings), [Painting ++](https://www.curseforge.com/minecraft/texture-packs/painting-base-painting-pack), [Greater paintings](https://www.curseforge.com/minecraft/texture-packs/new-paintings), [Rispwind's Additional Paintings](https://www.curseforge.com/minecraft/mc-mods/rispwinds-additional-paintings), [Peculiar Paintings](https://www.curseforge.com/minecraft/texture-packs/peculiar-paintings), and [Custom Paintings by sugrcube](https://www.planetminecraft.com/texture-pack/custom-paintings-by-sugrcube/).
 
 # Planned Features
 - Animal/mob textures from 'Stay True'
-- New paintings (Original mod undecided)
 
 # Screenshots
 ![2025-10-31_21-12-29 186_00040000001B8700_cmb](https://github.com/user-attachments/assets/f40f7726-635f-42ac-9e32-db0c518fec53)
