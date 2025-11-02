@@ -1,5 +1,5 @@
 # StayTruePlus-Minecraft-3DS
-Stay True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. It uses 1.17 base textures, textures from 'Stay True', and other texture replacements.
+Stay True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. It uses 1.17 base textures, textures from 'Stay True', and other texture replacements. The goal of this pack is to improve the overall textures while 'Staying True' to the vanilla style.
 
 # How to Install
 1. Extract the release folder for your region
@@ -21,7 +21,10 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 
 # Planned Features
 - Animal/mob textures from 'Stay True'
-
+- Better moon from [Enhanced Moon](https://www.curseforge.com/minecraft/texture-packs/enhanced-moon)
+- No pumpkin blur from [No More Pumpkin Blur](https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack)
+- Spawn eggs from 1.21.5
+  
 # Screenshots
 *Note that not all changed textures are pictured*
 
