@@ -21,14 +21,27 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Animal/mob textures from 'Stay True'
 
 # Screenshots
-![2025-10-31_21-12-29 186_00040000001B8700_cmb](https://github.com/user-attachments/assets/f40f7726-635f-42ac-9e32-db0c518fec53)
-
-
-![2025-10-31_21-11-41 636_00040000001B8700_cmb](https://github.com/user-attachments/assets/430ee639-863b-42ac-be35-1cd4f4f444bb)
-
-
-
-![2025-10-31_21-14-13 384_00040000001B8700_cmb](https://github.com/user-attachments/assets/4c986591-0004-4a44-90f7-4155286e423a)
-
+*Note that not all changed textures are pictured*
 
 <img width="400" height="240" alt="2025-11-02_01-41-36 722_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/f893bc27-a072-4868-a3a3-0bc654b656df" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-19-37 852_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/12acab15-b5a7-465a-80b6-421f8cf3e4a9" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-16-01 078_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/39b7e561-313a-486e-90d5-3290813282a8" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-27-50 487_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/d7516654-19fd-4ad6-8417-c2da4c70de9d" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-24-34 572_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/d4b94b39-d336-47f6-a83d-60c988d6a557" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-03-52 930_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/9f23239b-54bf-4158-a5c2-eedd950446e5" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-29-01 451_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/45df1d07-5030-4583-a3e1-0ff1a65b1c10" />
+
+
+<img width="400" height="240" alt="2025-11-02_02-20-28 890_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/1c439d21-af7a-45bd-9e82-8faccf6f584a" />
