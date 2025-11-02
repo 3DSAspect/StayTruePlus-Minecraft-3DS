@@ -27,4 +27,8 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 ![2025-10-31_21-11-41 636_00040000001B8700_cmb](https://github.com/user-attachments/assets/430ee639-863b-42ac-be35-1cd4f4f444bb)
 
 
+
 ![2025-10-31_21-14-13 384_00040000001B8700_cmb](https://github.com/user-attachments/assets/4c986591-0004-4a44-90f7-4155286e423a)
+
+
+<img width="400" height="240" alt="2025-11-02_01-41-36 722_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/f893bc27-a072-4868-a3a3-0bc654b656df" />
