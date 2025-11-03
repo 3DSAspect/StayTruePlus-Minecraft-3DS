@@ -11,18 +11,16 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 
 # Features
 - Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with base 1.17 textures.
-- Oak, Dark Oak, Jungle, and Birch doors from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
+- Oak, Dark Oak, Jungle, and Birch doors replacements from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from 'Stay True'.
 - Bow draw indicators from [Simple Bow Indicators](https://www.planetminecraft.com/texture-pack/simple-bow-indicators/).
-- Lily pad from [Better Lily Pads](https://modrinth.com/resourcepack/better-lily-pads_)
-- New, select paintings from [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings), [Too Many Paintings!](https://modrinth.com/mod/too-many-paintings), [Painting ++](https://www.curseforge.com/minecraft/texture-packs/painting-base-painting-pack), [Greater paintings](https://www.curseforge.com/minecraft/texture-packs/new-paintings), [Rispwind's Additional Paintings](https://www.curseforge.com/minecraft/mc-mods/rispwinds-additional-paintings), [Peculiar Paintings](https://www.curseforge.com/minecraft/texture-packs/peculiar-paintings), and [Custom Paintings by sugrcube](https://www.planetminecraft.com/texture-pack/custom-paintings-by-sugrcube/).
-- Sun replacement from [Enhanced Sun](https://www.curseforge.com/minecraft/texture-packs/enhanced-sun)
-- Less rain particles from [Light Rain](https://modrinth.com/resourcepack/less-rain)
-
+- Lily pad replacement from [Better Lily Pads](https://modrinth.com/resourcepack/better-lily-pads_)
+- Painting replacements from [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings), [Too Many Paintings!](https://modrinth.com/mod/too-many-paintings), [Painting ++](https://www.curseforge.com/minecraft/texture-packs/painting-base-painting-pack), [Greater paintings](https://www.curseforge.com/minecraft/texture-packs/new-paintings), [Rispwind's Additional Paintings](https://www.curseforge.com/minecraft/mc-mods/rispwinds-additional-paintings), [Peculiar Paintings](https://www.curseforge.com/minecraft/texture-packs/peculiar-paintings), and [Custom Paintings by sugrcube](https://www.planetminecraft.com/texture-pack/custom-paintings-by-sugrcube/).
+- Sun replacement from [Enhanced Sun](https://www.curseforge.com/minecraft/texture-packs/enhanced-sun).
+- Moon replacement from [Enhanced Moon](https://www.curseforge.com/minecraft/texture-packs/enhanced-moon).
+- Bed replacements from [Lucid Beds](https://mcpedl.com/lucid-beds/).
+  
 # Planned Features
-- Animal/mob textures from 'Stay True'
-- Better moon from [Enhanced Moon](https://www.curseforge.com/minecraft/texture-packs/enhanced-moon)
-- No pumpkin blur from [No More Pumpkin Blur](https://www.curseforge.com/minecraft/texture-packs/no-more-pumpkin-blur-pack)
 - Spawn eggs from 1.21.5
   
 # Screenshots
