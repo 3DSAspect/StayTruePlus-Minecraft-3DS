@@ -19,6 +19,7 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Sun replacement from [Enhanced Sun](https://www.curseforge.com/minecraft/texture-packs/enhanced-sun).
 - Moon replacement from [Enhanced Moon](https://www.curseforge.com/minecraft/texture-packs/enhanced-moon).
 - Bed replacements from [Lucid Beds](https://mcpedl.com/lucid-beds/).
+- Clearer water from [Clear water](https://mcpedl.com/connected-grass-clear-water-1/)
   
 # Planned Features
 - Spawn eggs from 1.21.5
