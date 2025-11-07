@@ -2,7 +2,7 @@
 <img width="264" height="128" alt="STAYTRUEPLUSLOGO" src="https://github.com/user-attachments/assets/f662cabf-e860-4105-a34b-867388be14c5" />
 <div align="left">
   
- True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. It uses 1.17 base textures, textures from 'Stay True', and other texture replacements. The goal of this pack is to improve the overall textures while 'Staying True' to the vanilla style.
+Stay True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. The pack is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. 
 
 # How to Install
 1. Extract the release folder for your region
