@@ -23,6 +23,7 @@ Stay True Plus features a combination of texture packs and enhancements that bri
   
 # Planned Features
 - Spawn eggs from 1.21.5
+- Low fire
   
 # Screenshots
 *Note that not all changed textures are pictured*
