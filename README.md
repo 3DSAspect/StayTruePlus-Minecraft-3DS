@@ -5,18 +5,12 @@
   
 <div align="left">
   
-  
-Stay True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. The pack is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. 
-
-# How to Install
-1. Extract the release folder for your region
-2. Drag and drop the luma folder to the root of your SD Card
-3. Ensure Game Patching is enabled in luma config
-4. Enjoy the awesome textures :)
+# Overview
+Stay True Plus features a combination of texture packs and enhancements that bring together the perfect vanilla + mod pack. The pack is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. 
 
    ***Also available on the [Minecraft 3DS Edition Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)***
 
-# Features
+# List of Included Mods
 - Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with base 1.17 textures.
 - Oak, Dark Oak, Jungle, and Birch doors replacements from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from 'Stay True'.
@@ -28,9 +22,17 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Bed replacements from [Lucid Beds](https://mcpedl.com/lucid-beds/).
 - Clearer water from [Clear water](https://mcpedl.com/connected-grass-clear-water-1/)
   
-# Planned Features
+# Planned Mods
 - Spawn eggs from 1.21.5
 - Low fire
+
+# How to Install
+1. Extract the release folder for your region
+2. Drag and drop the luma folder to the root of your SD Card
+3. Ensure Game Patching is enabled in luma config
+4. Enjoy the awesome textures :)
+
+   ***Also available on the [Minecraft 3DS Edition Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)***
   
 # Screenshots
 *Note that not all changed textures are pictured*
