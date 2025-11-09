@@ -1,6 +1,10 @@
 <div align="center">
 <img width="264" height="128" alt="STAYTRUEPLUSLOGO" src="https://github.com/user-attachments/assets/f662cabf-e860-4105-a34b-867388be14c5" />
+  
+  [![Github All Release](https://img.shields.io/github/downloads/3DSAspect/StayTruePlus-Minecraft-3DS/total.svg)]()
+  
 <div align="left">
+  
   
 Stay True Plus features a combination of texture packs and enhancements that bring together the perfect texture pack for builders. The pack is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. 
 
