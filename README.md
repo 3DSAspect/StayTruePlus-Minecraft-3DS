@@ -11,7 +11,7 @@ Stay True Plus features a combination of texture packs and enhancements that bri
    ***Also available on the [Minecraft 3DS Edition Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)***
 
 # List of Included Mods
-- Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with base 1.17 textures.
+- Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with modern Minecraft textures.
 - Oak, Dark Oak, Jungle, and Birch doors replacements from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from 'Stay True'.
 - Bow draw indicators from [Simple Bow Indicators](https://www.planetminecraft.com/texture-pack/simple-bow-indicators/).
