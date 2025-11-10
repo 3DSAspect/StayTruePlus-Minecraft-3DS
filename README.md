@@ -20,11 +20,12 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Sun replacement from [Enhanced Sun](https://www.curseforge.com/minecraft/texture-packs/enhanced-sun).
 - Moon replacement from [Enhanced Moon](https://www.curseforge.com/minecraft/texture-packs/enhanced-moon).
 - Bed replacements from [Lucid Beds](https://mcpedl.com/lucid-beds/).
-- Clearer water from [Clear water](https://mcpedl.com/connected-grass-clear-water-1/)
+- Clearer water from [Clear water](https://mcpedl.com/connected-grass-clear-water-1/).
+- Lower fire from [Low Fire](https://mcpedl.com/low-fire-resource-pack/).
+- Donkey, Mule, and Llama chests are replaced with [Saddle Bags](https://www.planetminecraft.com/texture-pack/saddle-bags/).
   
 # Planned Mods
-- Spawn eggs from 1.21.5
-- Low fire
+- Potion effect indicators.
 
 # How to Install
 1. Extract the release folder for your region
@@ -32,7 +33,7 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 3. Ensure Game Patching is enabled in luma config
 4. Enjoy the awesome textures :)
 
-   ***Also available on the [Minecraft 3DS Edition Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore)***
+   ***Also available on the [Minecraft 3DS Edition Community Unistore](https://github.com/Minecraft-3DS-Community/Minecraft-3ds-unistore).***
   
 # Screenshots
 *Note that not all changed textures are pictured*
