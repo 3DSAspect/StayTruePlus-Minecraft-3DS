@@ -6,7 +6,7 @@
 <div align="left">
   
 # Overview
-Stay True Plus features a combination of texture packs and enhancements that bring together the perfect vanilla + mod pack. The pack is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. 
+Stay True Plus is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. The goal of this modpack is to provide the best vanilla + experience for Minecraft: New Nintendo 3DS edition.
 
 # List of Included Mods
 - Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with modern Minecraft textures.
@@ -21,6 +21,8 @@ Stay True Plus features a combination of texture packs and enhancements that bri
 - Clearer water from [Clear water](https://mcpedl.com/connected-grass-clear-water-1/).
 - Lower fire from [Low Fire](https://mcpedl.com/low-fire-resource-pack/).
 - Donkey, Mule, and Llama chests are replaced with [Saddle Bags](https://www.planetminecraft.com/texture-pack/saddle-bags/).
+- Icon replacements from [Vanilla + icons](https://modrinth.com/resourcepack/vanilla+-icons)
+- Helmet replacements from [Vanilla Experience +](https://www.curseforge.com/minecraft/texture-packs/vanilla-exp)
   
 # Planned Mods
 - Potion effect indicators.
