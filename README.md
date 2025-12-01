@@ -6,12 +6,12 @@
 <div align="left">
   
 # Overview
-Stay True Plus is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. The goal of this modpack is to provide the best vanilla + experience possible on Min ecraft: New Nintendo 3DS Edition.
+Stay True Plus is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. The goal of this modpack is to provide the best vanilla + experience possible on Minecraft: New Nintendo 3DS Edition.
 # List of Included Mods
 <details>
 <summary> Click to show/hide included mods </summary>
 
-- Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with modern Minecraft textures.
+- Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true).
 - Oak, Dark Oak, Jungle, and Birch doors replacements from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from 'Stay True'.
 - Bow draw indicators from [Simple Bow Indicators](https://www.planetminecraft.com/texture-pack/simple-bow-indicators/).
@@ -19,12 +19,17 @@ Stay True Plus is centered around the popular 'Stay True' texture pack for Minec
 - Painting replacements from [Macaw's Paintings](https://www.curseforge.com/minecraft/mc-mods/macaws-paintings), [Too Many Paintings!](https://modrinth.com/mod/too-many-paintings), [Painting ++](https://www.curseforge.com/minecraft/texture-packs/painting-base-painting-pack), [Greater paintings](https://www.curseforge.com/minecraft/texture-packs/new-paintings), [Rispwind's Additional Paintings](https://www.curseforge.com/minecraft/mc-mods/rispwinds-additional-paintings), [Peculiar Paintings](https://www.curseforge.com/minecraft/texture-packs/peculiar-paintings), and [Custom Paintings by sugrcube](https://www.planetminecraft.com/texture-pack/custom-paintings-by-sugrcube/).
 - Sun replacement from [Enhanced Sun](https://www.curseforge.com/minecraft/texture-packs/enhanced-sun).
 - Moon replacement from [Enhanced Moon](https://www.curseforge.com/minecraft/texture-packs/enhanced-moon).
-- Bed replacements from [Lucid Beds](https://mcpedl.com/lucid-beds/).
+- Bed replacements from [Fancy Beds](https://www.curseforge.com/minecraft/texture-packs/fancy-beds).
 - Clearer water from [Clear water](https://mcpedl.com/connected-grass-clear-water-1/).
 - Lower fire from [Low Fire](https://mcpedl.com/low-fire-resource-pack/).
-- Donkey, Mule, and Llama chests are replaced with [Saddle Bags](https://www.planetminecraft.com/texture-pack/saddle-bags/).
+- Donkey, Mule, and Llama saddle chest replacements from [Saddle Bags](https://www.planetminecraft.com/texture-pack/saddle-bags/).
 - Icon replacements from [Vanilla + icons](https://modrinth.com/resourcepack/vanilla+-icons)
-- Helmet replacements from [Vanilla Experience +](https://www.curseforge.com/minecraft/texture-packs/vanilla-exp)
+- Armor replacements from [Better Armors](https://www.planetminecraft.com/texture-pack/better-armors-5490162/)
+- Creeper replacement from [Quality Creeper](https://www.planetminecraft.com/texture-pack/quality-creeper/)
+- Iron Golem replacement from [Irony iron Golems](https://www.planetminecraft.com/texture-pack/irony-iron-golems/)
+- Apple and Golden Apple replacements from [Better Apples](https://www.curseforge.com/minecraft/texture-packs/better-apples-sr_paulo)
+- SD Card icon replaced with saving icon from Minecraft: Bedrock Edition.
+- Most remaining textures from Modern Minecraft.
   </details>
   
 # Planned Mods
@@ -32,7 +37,6 @@ Stay True Plus is centered around the popular 'Stay True' texture pack for Minec
 <summary> Click to show/hide planned mods </summary>
   
 - Potion effect indicators
-- irony iron golems
 </details>
 
 # How to Install
