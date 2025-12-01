@@ -6,9 +6,11 @@
 <div align="left">
   
 # Overview
-Stay True Plus is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. The goal of this modpack is to provide the best vanilla + experience possible on Minecraft: New Nintendo 3DS Edition.
-
+Stay True Plus is centered around the popular 'Stay True' texture pack for Minecraft: Java Edition, but includes a number of additional improvements that stay true to the vanilla style. The goal of this modpack is to provide the best vanilla + experience possible on Min ecraft: New Nintendo 3DS Edition.
 # List of Included Mods
+<details>
+<summary> Click to show/hide included mods </summary>
+
 - Mostly complete texture replacements from [Stay True](https://www.curseforge.com/minecraft/texture-packs/stay-true) with the remainders being replaced with modern Minecraft textures.
 - Oak, Dark Oak, Jungle, and Birch doors replacements from [Glass Doors](https://www.curseforge.com/minecraft/texture-packs/glass-doors).
 - 'Wooden Trapdoor' replaced with the spruce trapdoor from 'Stay True'.
@@ -23,9 +25,15 @@ Stay True Plus is centered around the popular 'Stay True' texture pack for Minec
 - Donkey, Mule, and Llama chests are replaced with [Saddle Bags](https://www.planetminecraft.com/texture-pack/saddle-bags/).
 - Icon replacements from [Vanilla + icons](https://modrinth.com/resourcepack/vanilla+-icons)
 - Helmet replacements from [Vanilla Experience +](https://www.curseforge.com/minecraft/texture-packs/vanilla-exp)
+  </details>
   
 # Planned Mods
-- Potion effect indicators.
+<details>
+<summary> Click to show/hide planned mods </summary>
+  
+- Potion effect indicators
+- irony iron golems
+</details>
 
 # How to Install
 1. Extract the release folder for your region
@@ -43,5 +51,23 @@ Stay True Plus is centered around the popular 'Stay True' texture pack for Minec
 
 
 <img width="400" height="240" alt="2025-11-11_19-56-20 277_00040000001B8700_cmb" src="https://github.com/user-attachments/assets/515b9754-7461-4d69-87db-9461919c3727" />
+
+# FAQ
+<details>
+<summary> Click to show/hide FAQs </summary>
+  
+## Q: What is required for Stay True Plus to work?
+A: a copy of *Minecraft: New Nintendo 3DS Edition* with update version 1.9.19 installed. If using actual hardware, you must have the latest version of luma CFW installed.
+
+## Q: Is Stay True Plus compatible with Modernization Megapack?
+A: Yes! I recommend using the Modernization Megapack along side Stay True Plus for the best experience.
+
+## Q: There's a mod I think would fit the theme of Stay true Plus, where can I suggest it? 
+A: Please open an Issue on this repo!
+</details>
+
+# Credits
+- All credit goes to the original mod creators for the amazing mods
+- Credit to the Minecraft 3DS community Discord Server for helping me with developing Stay True Plus
 
 
